@@ -282,6 +282,7 @@ h3 {
 
 p {
   font-weight: normal;
+  line-height: 1.7rem;
 }
 
 span {
@@ -338,15 +339,16 @@ About
 }
 
 .about_content{
-  width: 85vw;
+  width: 80vw;
 
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
+
 .about_content img {
-  width: 538px;
+  width: 35vw;
   margin: 0 3rem;
 }
 
